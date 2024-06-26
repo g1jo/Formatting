@@ -1,0 +1,5 @@
+@media (max-width: 768px) {
+  .vfrc-widget--chat.c-fikloo {
+    max-height: 750px;
+  }
+}
