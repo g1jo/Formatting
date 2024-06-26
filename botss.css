@@ -1,0 +1,11 @@
+@media (max-width: 768px) {
+    .c-fikloo {
+        position: fixed;
+        height: unset;
+        max-height: 710px;
+        width: unset;
+        inset: 0px;
+        border-radius: 0px;
+        box-shadow: none;
+    }
+}
