@@ -1,5 +1,5 @@
 .vfrc-widget--chat {
     
-    clientHeight: 550px;
+    max-height: 550px;
     
 }
