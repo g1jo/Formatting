@@ -3,3 +3,11 @@
     max-height: 550px;
 
 }
+
+.vfrc-system-response--list .vfrc-message--chat {
+
+  max-height: 550px;
+
+  height: 500px;
+
+}
