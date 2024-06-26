@@ -1,0 +1,13 @@
+.vfrc-widget--chat {
+    
+    height: 550px;
+    
+}
+
+.vfrc-system-response--list .vfrc-message--chat {
+
+  max-height: 450px;
+
+  height: 400px;
+
+}
